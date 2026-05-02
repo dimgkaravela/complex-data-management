@@ -16,7 +16,7 @@ complex-data-management/
 
 ## 1. Relational Operators
 
-Folder: ``` relational-operators```
+Folder: ```relational-operators```
 
 This assignment implements basic relational query operators over tabular data stored in TSV files.
 
@@ -66,6 +66,7 @@ This assignment implements query processing methods for transactional and set-va
 - Top-k relevance ranking
 
 The implementations compare simple scanning methods with indexed approaches for efficient query evaluation.
+
 
 ## Data Files
 The original course datasets are not included in this repository.
